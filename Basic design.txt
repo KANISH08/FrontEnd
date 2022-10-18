@@ -16,9 +16,9 @@ body {
 /* Style the header */
 header {
   background-color: DodgerBlue;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
+  padding: 1px;
+  text-align: left;
+  font-size: 9px;
   color: white;
 }
 
@@ -56,7 +56,7 @@ section::after {
 footer {
   background-color: DodgerBlue;
   padding: 10px;
-  text-align: center;
+  text-align: left;
   color: white;
 }
 
@@ -72,8 +72,16 @@ footer {
 <body>
 
 <h2>Example 1</h2>
-<p>In this example you are supposed to use this 'X' approach to solvethis problem</p>
+<p>In this example you are supposed to pass this as input and obtain values  'X' as output</p>
 
+<h2>Example 2</h2>
+<p>In this example you are supposed to pass this as input and obtain values  'Y' as output</p>
+
+<h2>Example 3</h2>
+<p>In this example you are supposed to pass this as input and obtain values  'Z' as output</p>
+
+<h2>HINTS</h2>
+<p>In this example you are supposed to use this 'ABC' approach to solvethis problem</p>
 <header>
   <h2>Tap IDE</h2>
 </header>
@@ -100,7 +108,7 @@ You can return the answer in any order.</p>
 </section>
 
 <footer>
-  <p>Click here for HINTS</p>
+  <p>Click here for <a href="#">HINTS</a></p>
 </footer>
 
 </body>
