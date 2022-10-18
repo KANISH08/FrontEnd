@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is an inline span <span style="border: 1px solid black">The Examples or hints updated by the admin sits inside this box</span> element inside a paragraph.</p>
+
+
+</body>
+</html>
+
