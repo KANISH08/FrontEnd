@@ -18,7 +18,7 @@ header {
   background-color: DodgerBlue;
   padding: 1px;
   text-align: left;
-  font-size: 9px;
+  font-size: 30px;
   color: white;
 }
 
